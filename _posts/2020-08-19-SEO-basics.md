@@ -14,12 +14,14 @@ Effective search engine optimization may require changes to the HTML source code
 
 
 
-    **Why is SEO important?**
+   **Why is SEO important?**
 
 *  **To help gain more visitors:** majority users click on only top 4-5 web pages appeared in search results, so it’s very important for a website to appear in top results of a search engine.
 
 *  **Important for social promotion of a website:** if a website appears in top results of a search engine such as Google, Bing, etc. then it gains instant popularity and to some extent trust of a user.
+
 *  **It plays an important role in improving the business of a commercial site:** if two websites are selling the same product, for example both Myntra and Koovs focus on selling fashion clothing, then the site having better position in search result of a search engine has chances of getting more users as compared to the other.
+
 *  **Improving user experience:** SEO doesn’t focus only on improving search results but also on improving the user experience and usability of a website so that a website is more appealing to a user.
 
 **Basic principles in the working of a Search Engine**
