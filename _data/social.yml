@@ -4,7 +4,7 @@ email_address: "adityagupta012345@gmail.com"    # Full email address, e.g. "sam@
 behance:
 bitbucket:
 dribbble:
-facebook: "https://www.facebook.com/profile.php?id=100005679045375"
+facebook:
 flickr:
 gitlab:
 github: "AdityaGupta6149"
@@ -35,6 +35,6 @@ share:
   pinterest:
   pocket:
   reddit: true
-  linkedin:
+  linkedin: true
   wordpress:
   email: true
