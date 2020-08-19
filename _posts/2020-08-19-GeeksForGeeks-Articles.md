@@ -2,13 +2,14 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Links to all my GeeskforGeeks articles
-<!--more-->
 tags: [GeeksForGeeks]
 color: brown
 author: Aditya Gupta
 ---
 
-**Articles published at GeeksforGeeks:**
+**Articles published at GeeksforGeeks**
+
+<!--more-->
 
 * [Print sums of all subsets of a given set - GeeksforGeeks](https://www.quora.com/q/jeoaaltklluesatr/My-technical-articles)
 
