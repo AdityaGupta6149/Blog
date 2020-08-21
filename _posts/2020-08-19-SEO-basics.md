@@ -12,8 +12,6 @@ SEO considers how search engines work, what people search for, and which search 
 
 Effective search engine optimization may require changes to the HTML source code of a site and to the site content. SEO tactics should be incorporated into the website development and especially into the menus and navigation structure.
 
-
-
 **Why is SEO important?**
 
 *  **To help gain more visitors:** majority users click on only top 4-5 web pages appeared in search results, so it’s very important for a website to appear in top results of a search engine.
