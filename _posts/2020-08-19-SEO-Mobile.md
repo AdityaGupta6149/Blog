@@ -5,8 +5,8 @@ tags: [SEO, Aditya]
 excerpt_separator: <!--more> 
 ---
 In this article we will compare and contrast desktop and mobile SEO. 
-
 <!--more>
+
 **Does mobile and desktop SEO vary?**
 
 Yes, mobile and desktop SEO do vary a lot. According to Google, a mobile user is more likely to be immediately engaged with search results than a desktop user and serves results that are tailored toward that notion.
