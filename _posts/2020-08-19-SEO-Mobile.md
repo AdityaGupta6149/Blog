@@ -2,7 +2,7 @@
 layout: post
 title: SEO Mobile
 tags: [SEO, Aditya]
-excerpt_separator: <!--more> 
+excerpt_separator:<!--more> 
 ---
 In this article we will compare and contrast desktop and mobile SEO. 
 <!--more>
