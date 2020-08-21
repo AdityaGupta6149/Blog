@@ -9,6 +9,7 @@ excerpt_separator: <!--more>
 
 Yes, mobile and desktop SEO do vary a lot. According to Google, a mobile user is more likely to be immediately engaged with search results than a desktop user and serves results that are tailored toward that notion.
 <!--more>
+hh
   
 **What is RWD and how does it improve mobile SEO?**
 
