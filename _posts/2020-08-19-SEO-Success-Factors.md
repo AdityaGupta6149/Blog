@@ -10,6 +10,7 @@ Search engine optimization success factors refer to the techniques and factors w
 
 {% include aligner.html images="pexels/seo.jpg" column=1 %}
 
+
 **The success factors could be majorly classified into following 3 groups:**
 
 **1. On-the-page success factors :**
@@ -42,53 +43,55 @@ These days searchers want to be educated and won’t be satisfied with basic inf
 {% include aligner.html images="pexels/SEO-1-2.jpg" column=1 %}
 
 **2. Off-the-page success factors:**
+
 Off-the-page ranking factors are those that publishers do not directly control. Search engines use these because they learned early on that relying on publisher-controlled signals alone didn’t always yield the best results.
 
 For instance, some publishers may try to make themselves seem more relevant than they are in reality. With billions of web pages to sort through, looking only at “on-the-page” clues isn’t enough. More signals are needed to return the best pages for any particular search.
 
 Following are some of the most important off-the-page success factors:
 
-**1. Number of Inbound Links:**
+1. **Number of Inbound Links:**
 One of the biggest force behind boosting the search engine ratings is the number of other web pages that have links pointing to your website. A hyperlink to a page counts as a vote of support for that page. The more links you have pointing to your pages, the more “votes” you have in the eyes of Google, and, to a lesser extent, the other search engines. It is also important that a majority of your links come from unique domains rather than coming from a large number of random domains because that adds trust to the site.
 
-**2.  Anchor Text to Specific Pages:**
+2. **Anchor Text to Specific Pages:**
 When you make a link, the text that appears hyperlinked is called the anchor text. For off-page SEO purposes, you want links with your keywords as anchor text. This will help search engines correctly identify what your pages are about, and know which keywords they should be ranking for.
 
 While you want to target your keywords with the right anchor text, you don’t always get the option to pick the anchor text you want, which is ok because there is a value associated with the link from a good quality source no matter what the anchor text is.
 
 Furthermore, even if we could, we shouldn’t make all of the anchor text the same set of keywords. If all the links pointing to the site have the exact same anchor text, it begins to look very suspicious to search engines and ranking of the site falls.
 
-**3. Quality of Links:**
+3. **Quality of Links:**
 Not all links have the same value. Quality matters. Links from well-established sites, especially ones that are considered an authority in your domain/topic are considered much more valuable than links from more obscure sites
 
-**4. Building links:**
+4. **Building links:**
 Another important thing to take note of (alongside the number and quality of the links your site is receiving) is the rate at which your website is building links. However, you don’t want to build links unnaturally fast, or create a huge number in one hit and then stop.This can raise the suspicion of search engines and result in your site being penalized. A steady link-building campaign will deliver the best results and will increase the ranking of the website.
 
 {% include aligner.html images="pexels/seo-2.jpg" column=1 %}
 
 **3. Site and Domain factors:**
+
 There are certain site-wide factors and domain of the website which affect the site’s search visibility as well:
  
-**1. Sitemap:**
+1. **Sitemap:**
 A sitemap helps search engine to index all pages on your site. It is the simplest and most efficient way to tell Google what pages your website includes.
 
-**2. Server location:**
+2. **Server location:**
 Some SEOs believe that a server’s location helps to boost rankings for that particular country or region.
 
-**3. Mobile optimized site:**
+3. **Mobile optimized site:**
 Only a year ago, 46% of searchers used mobile exclusively to research. I believe this number increased exponentially in the last 12 months. It would be no surprise then that having a mobile optimized site would affect rankings in some way.
 
-**4. Google Search Console integration:**
+4. **Google Search Console integration:**
 Lastly, having your site verified at Google Webmasters Tools is said to help with your sites indexing. Even if that’s not the case, the tool provides valuable data you can use to optimize your site better.
 
-**5. Domain trust:**
+5. **Domain trust:**
 Trust matters. It’s hard not to think that sites Google trusts should rank higher. But how do you build that trust? Needless to say, building trust factors of your domain will certainly pay off.
 
-**6. Domain registration length:**
+6. **Domain registration length:**
 Google considers domains registered for longer than a year as more trustworthy
 
-**7.  Domain history:**
+7.  **Domain history:**
 You may not be the first person who registered the domain. And if your domain has been penalized in the past, its history might affect its current rankings
 
-**8. Country TLD extension:**
+8. **Country TLD extension:**
 A top-level domain (TLD) is the part of the domain name located to the right of the dot (” . “). The most common TLDs are .com, .net, and .org. If you try to target a particular local market, it is said that having a domain with a country specific TLD (.pl, .co.uk or .ie for instance) will help to achieve better rankings for that location.
