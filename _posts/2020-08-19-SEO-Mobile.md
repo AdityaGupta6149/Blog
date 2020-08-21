@@ -5,7 +5,6 @@ tags: [SEO, Aditya]
 excerpt_separator: <!--more> 
 ---
 In this article we will compare and contrast desktop and mobile SEO. 
-<!--more>
 
 **Does mobile and desktop SEO vary?**
 
