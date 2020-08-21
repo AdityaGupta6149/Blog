@@ -10,6 +10,7 @@ Search engine optimization success factors refer to the techniques and factors w
 
 {% include aligner.html images="pexels/seo.jpg" column=1 %}
 
+
 **The success factors could be majorly classified into following 3 groups:**
 
 **1. On-the-page success factors :**
@@ -42,6 +43,7 @@ These days searchers want to be educated and won’t be satisfied with basic inf
 {% include aligner.html images="pexels/SEO-1-2.jpg" column=1 %}
 
 **2. Off-the-page success factors:**
+
 Off-the-page ranking factors are those that publishers do not directly control. Search engines use these because they learned early on that relying on publisher-controlled signals alone didn’t always yield the best results.
 
 For instance, some publishers may try to make themselves seem more relevant than they are in reality. With billions of web pages to sort through, looking only at “on-the-page” clues isn’t enough. More signals are needed to return the best pages for any particular search.
@@ -67,6 +69,7 @@ Another important thing to take note of (alongside the number and quality of the
 {% include aligner.html images="pexels/seo-2.jpg" column=1 %}
 
 **3. Site and Domain factors:**
+
 There are certain site-wide factors and domain of the website which affect the site’s search visibility as well:
  
 **1. Sitemap:**
