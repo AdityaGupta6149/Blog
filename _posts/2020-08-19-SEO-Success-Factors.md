@@ -6,7 +6,7 @@ excerpt_separator: <!--more>
 ---
 
 Search engine optimization success factors refer to the techniques and factors which work in co-relation with each other to improve the overall SEO of your website.
-<!--more> 
+
 
 {% include aligner.html images="pexels/seo.jpg" column=1 %}
 
@@ -56,9 +56,9 @@ One of the biggest force behind boosting the search engine ratings is the number
 2. **Anchor Text to Specific Pages:**
 When you make a link, the text that appears hyperlinked is called the anchor text. For off-page SEO purposes, you want links with your keywords as anchor text. This will help search engines correctly identify what your pages are about, and know which keywords they should be ranking for.
 
-While you want to target your keywords with the right anchor text, you don’t always get the option to pick the anchor text you want, which is ok because there is a value associated with the link from a good quality source no matter what the anchor text is.
+    While you want to target your keywords with the right anchor text, you don’t always get the option to pick the anchor text you want, which is ok because there is a value associated with the link from a good quality source no matter what the anchor text is.
 
-Furthermore, even if we could, we shouldn’t make all of the anchor text the same set of keywords. If all the links pointing to the site have the exact same anchor text, it begins to look very suspicious to search engines and ranking of the site falls.
+    Furthermore, even if we could, we shouldn’t make all of the anchor text the same set of keywords. If all the links pointing to the site have the exact same anchor text, it begins to look very suspicious to search engines and ranking of the site falls.
 
 3. **Quality of Links:**
 Not all links have the same value. Quality matters. Links from well-established sites, especially ones that are considered an authority in your domain/topic are considered much more valuable than links from more obscure sites
