@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About Me
 author: Aditya Gupta 
 tags: [Aditya Gupta]
