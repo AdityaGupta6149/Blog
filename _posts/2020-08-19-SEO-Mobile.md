@@ -4,12 +4,13 @@ title: SEO Mobile
 tags: [SEO, Aditya]
 excerpt_separator: <!--more> 
 ---
+In this article we will compare and contrast desktop and mobile SEO.
+<!--more>
 
 **Does mobile and desktop SEO vary?**
 
 Yes, mobile and desktop SEO do vary a lot. According to Google, a mobile user is more likely to be immediately engaged with search results than a desktop user and serves results that are tailored toward that notion.
-<!--more>
-hh
+
   
 **What is RWD and how does it improve mobile SEO?**
 
@@ -42,10 +43,10 @@ For example: Google’s Image Search is an example of vertical search which focu
 
 There are three main techniques for implementing a website that can handle view screens of all types and sizes. Here’s a chart comparing the three methods:
 
-**Responsive web design:** Serves the same HTML code on the same URL regardless of the users’ device (desktop, tablet, mobile, non-visual browser), but can render the display differently (i.e., “respond”) based on the screen size. Responsive design is Google’s recommended design pattern.
+1. **Responsive web design:** Serves the same HTML code on the same URL regardless of the users’ device (desktop, tablet, mobile, non-visual browser), but can render the display differently (i.e., “respond”) based on the screen size. Responsive design is Google’s recommended design pattern.
 
-**Dynamic serving:** Uses the same URL regardless of the device but generates a different version of HTML for different device types based on what the server knows about the user’s browser.
+2. **Dynamic serving:** Uses the same URL regardless of the device but generates a different version of HTML for different device types based on what the server knows about the user’s browser.
 
-**Separate URLs:** Serves different code to each device, and on separate URLs. This configuration tries to detect the users’ device, then redirects to the appropriate page using HTTP redirects along with the Vary HTTP header.
+3. **Separate URLs:** Serves different code to each device, and on separate URLs. This configuration tries to detect the users’ device, then redirects to the appropriate page using HTTP redirects along with the Vary HTTP header.
 
 Google does not favor any particular URL format as long as the page(s) and all page assets are accessible to all Googlebot user-agents.
