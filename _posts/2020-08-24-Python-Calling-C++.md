@@ -6,6 +6,7 @@ excerpt_separator: <!--more>
 ---
 
 **What is the motivation for accessing C++ code from Python?** 
+<!--more>
 
 
 Blue Yonder has few projects in which few segments of code are in Python and few in C++ and hence it makes for an important use case to find some methodology to make these two languages communicate with each other efficiently. It becomes extremely crucial to find a tool for Python's seamless integration with the code written in C++.
