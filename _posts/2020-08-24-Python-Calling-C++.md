@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python calling C++
-tags: [SEO, Aditya]
+tags: [Python, C++]
 excerpt_separator: <!--more> 
 ---
 
