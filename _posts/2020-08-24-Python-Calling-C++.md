@@ -6,7 +6,7 @@ excerpt_separator: <!--more>
 ---
 
 **What is the motivation for accessing C++ code from Python?** 
-<!--more> 
+
 
 Blue Yonder has few projects in which few segments of code are in Python and few in C++ and hence it makes for an important use case to find some methodology to make these two languages communicate with each other efficiently. it becomes extremely crucial to find a tool for Python's seamless integration with the code written in C++.
  
@@ -111,4 +111,50 @@ hello, world
 11 * 11 = 121 
 ``` 
 
-So, as you can see from the example above the only additional library required to run our program is the Boost library apart from the regular C++ and Python compiler and all you need to do is compile and build the C++ library and import it in Python as a regular Python library and boom you’re ready to go.    
+So, as you can see from the example above the only additional library required to run our program is the Boost library apart from the regular C++ and Python compiler and all you need to do is compile and build the C++ library and import it in Python as a regular Python library and boom you’re ready to go.
+
+**Exposing classes written in C++ to Python** 
+
+Now that we have explored running a simple Hello World program in Python which is written in C++, let’s see how we can do the same with C++ classes through an example. 
+
+Assume we want to expose the below written C++ class to Python.    
+```ruby
+struct World 
+{ 
+    void set(std::string msg) { mMsg = msg; } 
+    std::string greet() { return mMsg; } 
+    std::string mMsg; 
+}; 
+ 
+using namespace boost::python; 
+ 
+BOOST_PYTHON_MODULE(classes) 
+        { 
+                class_<World>("World") 
+                        .def("greet", &World::greet) 
+                        .def("set", &World::set) 
+                ; 
+        }; 
+```  
+The corresponding Python code to call the above C++ class from Python would be: 
+
+```ruby
+import classes 
+ 
+t = classes.World() 
+t.set("Python says hi to C++.") 
+print (t.greet())
+``` 
+The output of running the above code would be: 
+
+```ruby
+/Users/adityagupta/PycharmProjects/check/venv/bin/python /Users/adityagupta/PycharmProjects/check/Classes.py 
+
+Python says hi to C++. 
+
+Process finished with exit code 0 
+``` 
+
+**Conclusion:** 
+
+This is just the tip of the iceberg and there could be several use cases for making the two languages talk, especially while taking the edge of data science in the existing projects or while using the best features of both the languages.  Although Boost.Python is a great tool for a quick start up, but it has few drawbacks like packaging projects that have native dependencies could be challenging and since it’s a python run-time dependency resolution it might be difficult to use all the C++ features especially templates but having said that it’s a great tool to getting started and running at least the basic C++ code as Python libraries and opening up possibilities to a whole new world. 
