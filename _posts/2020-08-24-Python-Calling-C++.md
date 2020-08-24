@@ -70,7 +70,7 @@ Before we get to the actual coding part let’s see what the prerequisites are t
 
 Suppose we have the following C++ API which we want to expose in Python:
 
-```ruby
+```cpp
 #include <string> 
 
 namespace 
@@ -85,7 +85,7 @@ namespace
 
 Here is the C++ code for a python module called getting_started1 which exposes the API. 
 
-```ruby
+```cpp
 #include <boost/python.hpp> 
 using namespace boost::python; 
  
@@ -99,7 +99,7 @@ BOOST_PYTHON_MODULE(getting_started1)
 ```  
 That's it! If we build this shared library and put it on our PYTHONPATH we can now access our C++ functions from Python. 
 
-```ruby
+```python
 >>> import getting_started1 
 >>> print getting_started1.greet()
  
@@ -118,7 +118,7 @@ So, as you can see from the example above the only additional library required t
 Now that we have explored running a simple Hello World program in Python which is written in C++, let’s see how we can do the same with C++ classes through an example. 
 
 Assume we want to expose the below written C++ class to Python.    
-```ruby
+```cpp
 struct World 
 { 
     void set(std::string msg) { mMsg = msg; } 
@@ -138,7 +138,7 @@ BOOST_PYTHON_MODULE(classes)
 ```  
 The corresponding Python code to call the above C++ class from Python would be: 
 
-```ruby
+```python
 import classes 
  
 t = classes.World() 
@@ -147,7 +147,7 @@ print (t.greet())
 ``` 
 The output of running the above code would be: 
 
-```ruby
+```python
 /Users/adityagupta/PycharmProjects/check/venv/bin/python /Users/adityagupta/PycharmProjects/check/Classes.py 
 
 Python says hi to C++. 
