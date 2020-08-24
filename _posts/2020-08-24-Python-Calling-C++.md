@@ -8,15 +8,15 @@ excerpt_separator: <!--more>
 **What is the motivation for accessing C++ code from Python?** 
 
 
-Blue Yonder has few projects in which few segments of code are in Python and few in C++ and hence it makes for an important use case to find some methodology to make these two languages communicate with each other efficiently. it becomes extremely crucial to find a tool for Python's seamless integration with the code written in C++.
+Blue Yonder has few projects in which few segments of code are in Python and few in C++ and hence it makes for an important use case to find some methodology to make these two languages communicate with each other efficiently. It becomes extremely crucial to find a tool for Python's seamless integration with the code written in C++.
  
 Before diving deeper into how to access C++ code from Python, let us try and understand why or under what circumstances would we want to do that: 
 
-1. You already have a large, tested, stable library written in C++ that you’d like to take advantage of in Python. This may be a communication library or a library to solve a specific purpose in the project. 
+1. **You already have a large, tested, stable library written in C++** that you’d like to take advantage of in Python. This may be a communication library or a library to solve a specific purpose in the project. 
 
-2. You want to speed up a section of your Python code by converting a critical section to C++. Not only does C++ have faster execution speed, but it also allows you to break free from the limitations of the Python Global Interpreter Lock (GIL). 
+2. **You want to speed up a section of your Python code** by converting a critical section to C++. Not only does C++ have faster execution speed, but it also allows you to break free from the limitations of the Python Global Interpreter Lock (GIL). 
 
-3. You want to use Python test tools to do large-scale testing of their systems. 
+3. **You want to use Python test tools** to do large-scale testing of their systems. 
 
 One of the method to access C++ code from Python is to write a python interface and place python bindings on it in order to give python access, we can do that or use a pre-built tool such as BoostPython library which is much easier to do.  But before going into details of this method let’s see what are the possible ways of combining Python and C++.   
 
@@ -62,11 +62,11 @@ So now that we are done with the theoretical aspects of it, let’s get our hand
 
 Before we get to the actual coding part let’s see what the prerequisites are to run a program with a boost library: 
 
-1. Boost (version >= 1.3.2) 
+1. [Boost](https://www.boost.org/) (version >= 1.3.2) 
 
-2. Python (version >= 2.2) 
+2. [Python](http://www.python.org/) (version >= 2.2) 
 
-3. A C++ compiler for your platform, e.g. GCC or MinGW 
+3. A C++ compiler for your platform, e.g. [GCC](https://gcc.gnu.org/) or [MinGW](http://www.mingw.org/) 
 
 Suppose we have the following C++ API which we want to expose in Python:
 
