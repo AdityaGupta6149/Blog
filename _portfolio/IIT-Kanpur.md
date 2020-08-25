@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tower of Hanoi
-img: "assets/img/portfolio/IIT-Knp.png"
+title: IIT-Kanpur
+img: "assets/img/portfolio/IIT-Knp.jpg"
 date: September 2020
 ---
 
