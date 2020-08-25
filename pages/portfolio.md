@@ -2,7 +2,7 @@
 layout: page
 title : Portfolio 
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
+subtitle: "Aditya Gupta's journey" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Archive]
 ---
