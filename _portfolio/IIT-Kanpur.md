@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IIT-Kanpur
-img: "assets/img/portfolio/IIT-Knp.jpg"
+img: "assets/img/portfolio/IITK.jpeg"
 date: September 2020
 ---
 
