@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blue Yonder
-img: "assets/img/portfolio/by.png"
+img: "assets/img/portfolio/by.jpg"
 date: 20-10-2020
 tags: [Portfolio]
 ---
