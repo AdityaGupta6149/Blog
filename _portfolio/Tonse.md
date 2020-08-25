@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tonse Technologies
-img: "assets/img/portfolio/tt.jpg"
+img: "assets/img/portfolio/tt.png"
 date: 20-10-2017
 tags: [Portfolio]
 ---
