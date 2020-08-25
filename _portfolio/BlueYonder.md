@@ -8,4 +8,4 @@ tags: [Portfolio]
 
 ![image]({{ page.img | relative_url }})
 
-Journey at GFG.
+Journey at BY.

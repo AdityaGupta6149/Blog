@@ -1,10 +1,11 @@
 ---
 layout: post
 title: OLA
-feature-img: "assets/img/portfolio/ola-cabs-logo.png"
 img: "assets/img/portfolio/ola-cabs-logo.png"
-date: 27 September 2020
-tags: [OLA, Portfolio]
+date: 20-10-2020
+tags: [Portfolio]
 ---
 
-My journey at OLA cabs. 
+![image]({{ page.img | relative_url }})
+
+Journey at OLA.

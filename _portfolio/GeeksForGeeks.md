@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github
+title: GeeksforGeeks
 img: "assets/img/portfolio/gfg.png"
 date: 20-10-2017
 tags: [Portfolio]
