@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IIT-BHU
-img: "assets/img/portfolio/IIT_BHU.png"
+img: "assets/img/portfolio/IITBHU.png"
 date: 20-10-2020
 tags: [Portfolio]
 ---
