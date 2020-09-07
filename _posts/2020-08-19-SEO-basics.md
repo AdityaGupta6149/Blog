@@ -4,6 +4,8 @@ title: SEO Basics
 tags: [SEO, Aditya]
 excerpt_separator: <!--more> 
 ---
+* TOC
+{:toc}
 
 Search engine optimization (SEO) is the process of improving the ranking (visibility) of a website in search engines. The higher (or more frequently) a web site is displayed in a search engine list (like Google), the more visitors it is expected to receive.
 <!--more>
