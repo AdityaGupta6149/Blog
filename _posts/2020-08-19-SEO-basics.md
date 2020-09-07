@@ -10,6 +10,9 @@ excerpt_separator: <!--more>
 Search engine optimization (SEO) is the process of improving the ranking (visibility) of a website in search engines. The higher (or more frequently) a web site is displayed in a search engine list (like Google), the more visitors it is expected to receive.
 <!--more>
 
+* TOC
+{:toc}
+
 SEO considers how search engines work, what people search for, and which search terms (words) are typed. Optimizing a website may involve editing the content to increase its relevance to specific keywords. Promoting a site to increase the number of links, is another SEO tactic.
 
 Effective search engine optimization may require changes to the HTML source code of a site and to the site content. SEO tactics should be incorporated into the website development and especially into the menus and navigation structure.
