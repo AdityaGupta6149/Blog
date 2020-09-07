@@ -2,6 +2,8 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Links to all my GeeskforGeeks articles
+feature-img: "assets/img/pexels/desk-messy.jpeg"
+thumbnail: "assets/thumbnails/pexels/desk-messy.jpeg"
 tags: [GeeksForGeeks]
 color: brown
 author: Aditya Gupta
