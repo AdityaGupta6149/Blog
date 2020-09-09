@@ -13,7 +13,7 @@ author: Aditya Gupta
 
 <!--more-->
 
-* [Print sums of all subsets of a given set - GeeksforGeeks](https://www.quora.com/q/jeoaaltklluesatr/My-technical-articles)
+* [Print sums of all subsets of a given set - GeeksforGeeks](https://www.geeksforgeeks.org/print-sums-subsets-given-set/)
 
 * [Count substrings with same first and last characters - GeeksforGeeks](http://www.geeksforgeeks.org/count-substrings-with-same-first-and-last-characters)
 * [Precision of floating point numbers in C++ (floor(), ceil(), trunc(), round() and setprecision()) - GeeksforGeeks](http://www.geeksforgeeks.org/precision-of-floating-point-numbers-in-c-floor-ceil-trunc-round-and-setprecision/)
