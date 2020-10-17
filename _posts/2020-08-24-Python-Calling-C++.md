@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 
 **What is the motivation for accessing C++ code from Python?** 
-<!--more>
+<!--more-->
 
 
 There are few projects in which few segments of code are in Python and few in C++ and hence it makes for an important use case to find some methodology to make these two languages communicate with each other efficiently. It becomes extremely crucial to find a tool for Python's seamless integration with the code written in C++.
@@ -159,5 +159,4 @@ Process finished with exit code 0
 **Conclusion:** 
 
 This is just the tip of the iceberg and there could be several use cases for making the two languages talk, especially while taking the edge of data science in the existing projects or while using the best features of both the languages.  Although Boost.Python is a great tool for a quick start up, but it has few drawbacks like packaging projects that have native dependencies could be challenging and since it’s a python run-time dependency resolution it might be difficult to use all the C++ features especially templates but having said that it’s a great tool to getting started and running at least the basic C++ code as Python libraries and opening up possibilities to a whole new world.
-
 **Also published at: [https://tech.blueyonder.com/python-calling-c++/](https://tech.blueyonder.com/python-calling-c++/)** 
