@@ -9,6 +9,6 @@ color: brown
 author: Aditya Gupta
 ---
 
-**Articles published at GeeksforGeeks**
+#KBC
 
 <!--more-->
