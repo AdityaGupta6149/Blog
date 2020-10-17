@@ -11,4 +11,6 @@ author: Aditya Gupta
 
 # KBC
 
+{% include aligner.html images="pexels/kbc.jpg" column=1 %}
+
 <!--more-->
