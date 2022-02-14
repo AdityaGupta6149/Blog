@@ -2,6 +2,7 @@
 layout: post
 title: SEO Basics
 tags: [SEO, Aditya]
+author: Aditya Gupta
 excerpt_separator: <!--more-->
 ---
 
