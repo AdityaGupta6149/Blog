@@ -2,11 +2,11 @@
 layout: post
 title: SEO Success Factors
 tags: [SEO, Aditya]
-excerpt_separator: <!--more> 
+excerpt_separator: <!--more--> 
 ---
 
 Search engine optimization success factors refer to the techniques and factors which work in co-relation with each other to improve the overall SEO of your website.
-<!--more> 
+<!--more-->
 
 {% include aligner.html images="pexels/seo.jpg" column=1 %}
 
